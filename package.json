@@ -1,5 +1,5 @@
 {
-  "name": "lambda-async-wrap",
+  "name": "@appacademy/lambda-async-wrap",
   "version": "0.2.0",
   "description": "Wraps Node.js Lambda functions in an Async function",
   "main": "index.js",
